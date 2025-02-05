@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an RFID-based security system that uses an **MFRC522 RFID reader**, **I2C LCD display**, a **servo motor**, and additional components like LEDs and a buzzer to control access to a secured area. When an RFID card is scanned, the system reads its UID and grants or denies access based on predefined authorized UIDs.
+This project is an RFID-based security system that uses an **MFRC522 RFID reader**, **I2C LCD display**, a **servo motor**, and additional components like LEDs and a buzzer to control access to a secured area. When an RFID card is scanned, the system reads its UID and grants or denies access based on predefined authorized UIDs. 
 
 ## Features
 
